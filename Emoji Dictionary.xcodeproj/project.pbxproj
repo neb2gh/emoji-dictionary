@@ -12,6 +12,7 @@
 		22BFFED81EC900630035A1CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22BFFED61EC900630035A1CA /* Main.storyboard */; };
 		22BFFEDA1EC900630035A1CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22BFFED91EC900630035A1CA /* Assets.xcassets */; };
 		22BFFEDD1EC900630035A1CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22BFFEDB1EC900630035A1CA /* LaunchScreen.storyboard */; };
+		43BB6CFC1ED25216003C393E /* dictionaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BB6CFB1ED25215003C393E /* dictionaryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		22BFFED91EC900630035A1CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22BFFEDC1EC900630035A1CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22BFFEDE1EC900630035A1CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43BB6CFB1ED25215003C393E /* dictionaryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dictionaryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				22BFFED21EC900630035A1CA /* AppDelegate.swift */,
 				22BFFED41EC900630035A1CA /* ViewController.swift */,
+				43BB6CFB1ED25215003C393E /* dictionaryViewController.swift */,
 				22BFFED61EC900630035A1CA /* Main.storyboard */,
 				22BFFED91EC900630035A1CA /* Assets.xcassets */,
 				22BFFEDB1EC900630035A1CA /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				22BFFED51EC900630035A1CA /* ViewController.swift in Sources */,
 				22BFFED31EC900630035A1CA /* AppDelegate.swift in Sources */,
+				43BB6CFC1ED25216003C393E /* dictionaryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
